@@ -15,7 +15,7 @@ Here's how you can best utilize this repository:
 
 - **Feature Requests**: We encourage you to suggest new features or improvements to enhance our software's functionality.
 
-For immediate assistance or general inquiries about the usage of our software, please consider visiting our [dedicated support channels](https://discord.com/channels/834908433073045604/1034581958895865866) or forums, where our community is ready to assist you.
+For immediate assistance or general inquiries about the usage of our software, please consider visiting our [dedicated support channel](https://discord.com/channels/834908433073045604/1034581958895865866), where our community is ready to assist you.
 
 ---
 
