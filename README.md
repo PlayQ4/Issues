@@ -35,6 +35,6 @@ For immediate assistance or general inquiries about the usage of our software, p
 
 ---
 
-### If you still believe that your issue belongs within the scope of this repository, please click [here](https://github.com/PlayQ4/issues/issues/new) to create a new issue.
+### If you still believe that your issue belongs within the scope of this repository, please click [here](https://github.com/PlayQ4/issues/issues/new) to create a new issue or head to the **issues** tab of this repository.
 
 # Thank you!
