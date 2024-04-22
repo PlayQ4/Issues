@@ -1,3 +1,6 @@
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/PlayQ4/issues?color=red)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/PlayQ4/issues?color=green)
+
 # PlayQ4.net Issue Tracker
 
 ### Welcome to the PlayQ4.net Issue Tracker! 
